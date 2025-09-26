@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design</title>
+    <link rel="stylesheet" href="new.css">
+</head>
+<body>
+    <h1><u>INTRODUCTION TO CSS</u></h1>
+    <br>
+    <h2><b>What is css?</b></h2>
+    
+    <h5>CSS stands for Cascading Style Sheets. It's a language used to style and lay out HTML elements on a web page.</h5>
+    
+    <button>click here</button>
+</body>
+</html>
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+h1{
+    color:darkslateblue
+}
+h2{
+    color: crimson;
+}
+h5{
+    color: darkslategrey;
+}
+button{
+    color: red;
+}
