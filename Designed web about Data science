@@ -1,0 +1,47 @@
+#HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design</title>
+    <link rel="stylesheet" href="new.css">
+</head>
+<body>
+    <h1>DATA SCIENCE</h1>
+
+    <h2>what is data science?</h2>
+    <h4>Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI) and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization’s data. These insights can be used to guide decision making and strategic planning.</h4>
+    <br>
+    <h2>What data scientists do?</h2>
+    <h4>Data scientists are experts at extracting industry-specific insights and answers from data. They possess computer science and pure science skills beyond those of a typical business analyst or data analyst, as well as a deep understanding of the specifics of the industry or business discipline in which they work (such as automobile manufacturing, eCommerce or healthcare).  </h4>
+    <br>
+    <h2>Data science tools</h2>
+    <h4>Data scientists rely on popular programming languages to conduct exploratory data analysis and statistical regression. These open source tools support pre-built statistical modeling, machine learning, and graphics capabilities.</h4>
+    <br>
+    <button>click here</button>
+</body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#CSS
+
+h1{
+    color:crimson;
+    text-align: center;
+    text-decoration:black dotted underline
+}
+h2{
+    color:cornflowerblue;
+    text-decoration: white dashed underline;
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+button{
+    color: white;
+    background-color: crimson;
+}
+*{
+    background-color: rgb(170, 206, 176);
+}
